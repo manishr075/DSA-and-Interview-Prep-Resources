@@ -1,0 +1,25 @@
+name: Resource suggestion
+about: Suggest a new DSA/interview preparation resource
+labels: ["resource"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Awesome Graph Algorithms Guide
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why is this useful?
+      description: Share a concise educational justification.
+    validations:
+      required: true

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security concern
+    url: https://github.com/manishr075/DSA-and-Interview-Prep-Resources/issues/new?labels=security
+    about: Please use this issue flow to report unsafe or malicious links.

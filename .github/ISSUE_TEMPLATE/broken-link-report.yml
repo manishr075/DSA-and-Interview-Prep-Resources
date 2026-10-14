@@ -1,0 +1,26 @@
+name: Broken or outdated link
+about: Report a resource link that is broken, outdated, or redirected incorrectly
+labels: ["broken-link"]
+body:
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource name
+      description: Name of the resource as listed in README
+      placeholder: cp-algorithms
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Problematic link
+      placeholder: https://example.com/resource
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong?
+      description: Include any error message, redirect issue, or context.
+    validations:
+      required: true
