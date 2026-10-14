@@ -5,11 +5,18 @@
 <h1 align="center">DSA and Interview Prep Resources</h1>
 
 <p align="center">
-  Curated by <strong>Devsphere</strong> to help you strengthen your fundamentals, 
+  Curated by <strong>Devsphere</strong> to help you strengthen your fundamentals,
   master algorithms, and crush your coding interviews.
 </p>
 
 ---
+
+## Quick Navigation
+
+- [Resources](#resources)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contributing](#contributing)
+- [Maintenance and Link Quality](#maintenance-and-link-quality)
 
 ## Resources
 
@@ -33,13 +40,36 @@
 | **Tushar Roy (YouTube)** | In-depth algorithm explanations with step-by-step code walkthroughs. | [Open](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) |
 | **Code DP Patterns Playlist (YouTube)** | Structured dynamic programming playlist covering patterns and practice problems. | [Open](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) |
 
+## How to Use This Repository
+
+- Pick 1–2 resources for your current focus area (for example, DP, graphs, or interview patterns).
+- Solve problems actively instead of passively reading; maintain your own notes and implementations.
+- Revisit this list periodically and prioritize depth over volume.
+
+## Contributing
+
+Contributions are welcome. Please follow [CONTRIBUTING.md](CONTRIBUTING.md) for:
+
+- adding or updating resources,
+- reporting broken or outdated links, and
+- quality expectations for pull requests.
+
+## Maintenance and Link Quality
+
+This repository uses automated checks in GitHub Actions to validate:
+
+- Markdown formatting consistency, and
+- external links in Markdown files.
+
+If you find a broken or malicious link, please open an issue.
+
 ---
 
 ## 💡 Tip
 
-Don’t just read, **write code!** 
+Don’t just read, **write code!**
 
-Pick a few problems from each section and implement them yourself.  
+Pick a few problems from each section and implement them yourself.
 Consistency and reflection matter more than quantity.
 
 ---
